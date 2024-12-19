@@ -1,0 +1,11 @@
+#nav-bar{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+}
+
+@media (weight <= 100px){
+    #footer{
+        color: blue;
+    }
+}

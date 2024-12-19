@@ -1,0 +1,20 @@
+#body {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.welcome-section{
+    height: 50px;
+}
+@media (height > 50px){
+    h1{
+        color: red;
+    }
+}
